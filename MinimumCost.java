@@ -1,3 +1,5 @@
+//Question 1 a)
+
 public class MinimumCost {
     public int minCost(int[][] costs) {
         if (costs == null || costs.length == 0)
